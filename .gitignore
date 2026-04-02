@@ -1,0 +1,18 @@
+# Fichiers volumineux
+*.wav
+*.mp3
+*.pt
+*.bin
+
+# Environnements Python
+__pycache__/
+*.pyc
+.env
+
+# Checkpoints modèles (trop lourds pour GitHub)
+models/
+checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
